@@ -6,7 +6,7 @@
     GO6.LOL - Free Discord Console Raider
     <br/>
     <br/>
-    <a href="https://go6.lol/">Our Website</a>
+    <a href="https://go6.lol/">Our Website |</a>
    <a href="discord.gg/go6">Discord</a> 
   </p>
 </p>
